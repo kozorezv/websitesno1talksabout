@@ -1,0 +1,14 @@
+- name: Learn Anything
+  url: https://learn-anything.xyz/
+  description: "All the resources, links and guides for any subject all in one place."
+  tags: [studying, tutorials, learning]
+
+- name: 
+  url: 
+  description: 
+  tags: []
+
+- name: 
+  url: 
+  description: 
+  tags: []
